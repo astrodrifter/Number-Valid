@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\Number-Valid\NumberValid\bin\Debug\NumberValid.exe.config
+C:\Users\Student\Documents\GitHub\Number-Valid\NumberValid\bin\Debug\NumberValid.exe
+C:\Users\Student\Documents\GitHub\Number-Valid\NumberValid\bin\Debug\NumberValid.pdb
+C:\Users\Student\Documents\GitHub\Number-Valid\NumberValid\obj\Debug\NumberValid.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Number-Valid\NumberValid\obj\Debug\NumberValid.exe
+C:\Users\Student\Documents\GitHub\Number-Valid\NumberValid\obj\Debug\NumberValid.pdb
