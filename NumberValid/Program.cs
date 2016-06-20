@@ -8,7 +8,7 @@ namespace NumberValid {
     class Program {
         static void Main(string[] args) {
             int[] number = new int[9];
-            Console.Write("Enter your 9 didgit number by pressing enter after each didgit:\n");
+            Console.Write("Enter your 9 digit number by pressing enter after each didgit:\n");
             for (int i = 0; i < 9; i++) {            
                 number[i] = Int32.Parse(Console.ReadLine());
             }
