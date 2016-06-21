@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\Number-Valid\NumValidModulaChar\Modula11Char\bin\Debug\Modula11Char.exe.config
+C:\Users\Student\Documents\GitHub\Number-Valid\NumValidModulaChar\Modula11Char\bin\Debug\Modula11Char.exe
+C:\Users\Student\Documents\GitHub\Number-Valid\NumValidModulaChar\Modula11Char\bin\Debug\Modula11Char.pdb
+C:\Users\Student\Documents\GitHub\Number-Valid\NumValidModulaChar\Modula11Char\obj\Debug\Modula11Char.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Number-Valid\NumValidModulaChar\Modula11Char\obj\Debug\Modula11Char.exe
+C:\Users\Student\Documents\GitHub\Number-Valid\NumValidModulaChar\Modula11Char\obj\Debug\Modula11Char.pdb
